@@ -1,1 +1,1 @@
-# Collecting-Data-Individual-Project
+# Digital-Humanities-Tools-and-Methods-Individual-Project
